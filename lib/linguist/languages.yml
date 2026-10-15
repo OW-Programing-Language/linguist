@@ -5735,6 +5735,14 @@ OverpassQL:
   tm_scope: source.overpassql
   ace_mode: text
   language_id: 689079655
+Ow:
+  type: programming
+  color: "#5b6ee1"
+  extensions:
+  - ".ow"
+  tm_scope: source.ow
+  ace_mode: text
+  language_id: 818671131
 Ox:
   type: programming
   extensions:

@@ -476,6 +476,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Option List:** [Alhadis/language-etc](https://github.com/Alhadis/language-etc)
 - **OverPy:** [Zezombye/overpy-grammar](https://github.com/Zezombye/overpy-grammar)
 - **OverpassQL:** [nickswalker/overpassql-tmlanguage](https://github.com/nickswalker/overpassql-tmlanguage)
+- **Ow:** [OW-Programing-Language/ow-grammar](https://github.com/OW-Programing-Language/ow-grammar)
 - **Ox:** [andreashetland/sublime-text-ox](https://github.com/andreashetland/sublime-text-ox)
 - **Oz:** [eregon/oz-tmbundle](https://github.com/eregon/oz-tmbundle)
 - **P4:** [TakeshiTseng/atom-language-p4](https://github.com/TakeshiTseng/atom-language-p4)
