@@ -992,6 +992,8 @@ vendor/grammars/overpassql-tmlanguage:
 - source.overpassql
 vendor/grammars/overpy-grammar:
 - source.opy
+vendor/grammars/ow-grammar:
+- source.ow
 vendor/grammars/oz-tmbundle:
 - source.oz
 vendor/grammars/pact-atom:
